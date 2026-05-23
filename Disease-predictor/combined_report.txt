@@ -1,0 +1,14 @@
+========================================
+  MULTI DISEASE — COMBINED REPORT
+========================================
+
+Disease        : 🩸 Diabetes
+Model          : Random Forest
+Accuracy       : 72.1%
+----------------------------------------
+
+Disease        : ❤️ Heart
+Model          : Logistic Regression
+Accuracy       : 88.5%
+----------------------------------------
+
